@@ -7,6 +7,10 @@
   font-family: "Roboto", sans-serif;
 }
 
+body{
+  background-color: #5f5e5e;
+}
+
 .top_header {
   display: flex;
   margin: 0 auto;
@@ -64,7 +68,7 @@ h1 {
 
 .card:hover {
   transform: translateY(-15px);
-  box-shadow: -1px 15px 30px -12px rgb(250, 69, 250);
+  box-shadow: -1px 15px 30px -12px rgb(255, 255, 255);
 }
 
 .heart {
